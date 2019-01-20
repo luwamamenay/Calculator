@@ -26,3 +26,4 @@ public class Calculator {
         return num1 / num2 ;
 >>>>>>> refs/remotes/origin/master
 }
+}
